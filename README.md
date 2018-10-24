@@ -1,5 +1,5 @@
-# Extension_Chrome_Horario_2DAW
-Horario en forma de extensión para 2DAW IES Mare Nostrum Alicante
+# Extension Chrome Horario 2DAW
+Horario en forma de extensión para 2DAW 2018/2019 del IES Mare Nostrum Alicante
 
 [Enlace de descarga](https://chrome.google.com/webstore/detail/horario-2daw/gnhpcapmeomjljfgdkpjcbfpdimbhgpe?hl=es)
 
@@ -15,5 +15,5 @@ Los archivos que conforman la extensión son:
 * [horario.html](https://github.com/dawalberto/Extension_Chrome_Horario_2DAW/blob/master/horario.html)
 * [manifest.json](https://github.com/dawalberto/Extension_Chrome_Horario_2DAW/blob/master/manifest.json)
 
-A diferencia de los archivos \'[README.md](https://github.com/dawalberto/Extension_Chrome_Horario_2DAW/blob/master/README.md)\' y \'[horario.png](https://github.com/dawalberto/Extension_Chrome_Horario_2DAW/blob/master/horario.png)\' que son únicamente informativos.
+A diferencia de los archivos [README.md](https://github.com/dawalberto/Extension_Chrome_Horario_2DAW/blob/master/README.md) y [horario.png](https://github.com/dawalberto/Extension_Chrome_Horario_2DAW/blob/master/horario.png) que son únicamente informativos.
 
