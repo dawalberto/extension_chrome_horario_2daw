@@ -18,3 +18,4 @@ Los archivos que conforman la extensión son:
 A diferencia de los archivos \'README.md\' y \'horario.png\' que son únicamente informativos.
 
 
+
