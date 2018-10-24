@@ -6,3 +6,15 @@ Horario en forma de extensión para 2DAW IES Mare Nostrum Alicante
 ###### Vista previa de la extensión:
 
 ![horario](./horario.png)
+
+
+Los archivos que conforman la extensión son:
+* favicon128.png
+* favicon16.png
+* favicon48.png
+* horario.html
+* manifest.json
+
+A diferencia de los archivos \'README.md\' y \'horario.png\' que son únicamente informativos.
+
+
