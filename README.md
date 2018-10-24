@@ -15,7 +15,5 @@ Los archivos que conforman la extensión son:
 * [horario.html](https://github.com/dawalberto/Extension_Chrome_Horario_2DAW/blob/master/horario.html)
 * [manifest.json](https://github.com/dawalberto/Extension_Chrome_Horario_2DAW/blob/master/manifest.json)
 
-A diferencia de los archivos \'README.md\' y \'horario.png\' que son únicamente informativos.
-Luisina te quiero
-
+A diferencia de los archivos \'[README.md](https://github.com/dawalberto/Extension_Chrome_Horario_2DAW/blob/master/README.md)\' y \'[horario.png](https://github.com/dawalberto/Extension_Chrome_Horario_2DAW/blob/master/horario.png)\' que son únicamente informativos.
 
