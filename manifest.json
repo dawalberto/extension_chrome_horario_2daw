@@ -1,0 +1,16 @@
+{
+    "manifest_version":2,
+    "name": "Horario",
+    "version": "1.0",
+    "author": "Alberto Garcia Sola",
+    "description": "Horario para el curso 2DAW",
+    "icons": {
+        "16": "favicon16.png",
+        "48": "favicon48.png",
+        "128": "favicon128.png"
+    },
+    "browser_action": {
+        "default_icon": "favicon16.png",
+        "default_popup": "horario.html"
+    }
+}
